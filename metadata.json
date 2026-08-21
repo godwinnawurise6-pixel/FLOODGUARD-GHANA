@@ -1,0 +1,6 @@
+{
+  "name": "FloodGuard Ghana",
+  "description": "Ghana-focused flood monitoring, early warnings, citizen reporting, flood-aware navigation, and authority response platform.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

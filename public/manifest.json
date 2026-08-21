@@ -1,0 +1,25 @@
+{
+  "short_name": "FloodGuard",
+  "name": "FloodGuard Ghana - Flood Warning & Navigation",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "description": "Ghana-focused flood monitoring, early warnings, citizen reporting, flood-aware navigation, and emergency shelter locator for iOS and Android.",
+  "categories": ["weather", "navigation", "utilities", "safety"]
+}
